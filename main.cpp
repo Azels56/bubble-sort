@@ -29,8 +29,6 @@ void bubblesort(int* array, int length) {
                 swapped = true;
             }
         }
-        if (!swapped) false;
-	}
 }
 
 int main()
