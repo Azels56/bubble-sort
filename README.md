@@ -1,2 +1,2 @@
 # bubble-sort
-definitely not skidded lmfao, this made my brain headache for no reason.
+Bubble sort that I made with pseudocode, and some digging in the google.
